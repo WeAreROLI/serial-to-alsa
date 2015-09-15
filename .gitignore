@@ -1,0 +1,27 @@
+# binary
+serial-to-alsa
+
+# generated stuff
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+compile
+config.h*
+config.log
+config.status
+configure
+config.guess
+config.sub
+depcomp
+install-sh
+missing
+*.o
+*.deps/
+.dirstamp
+stamp-h1
+TAGS
+check*
+test-driver
+test-suite.log
+compile_commands.json

@@ -1,0 +1,18 @@
+Serial to ALSA
+==============
+
+This is a small tool to convert any serial MIDI messages to a ALSA Raw MIDI
+device. It is used to test functionality and device drivers on the Seaboard
+GRAND by ROLI Ltd.
+
+Build Instructions
+==================
+
+    ./autogen.sh
+    ./configure
+    make
+
+License
+=======
+
+It's licensed under the GPLv3. Check COPYING for more information.
